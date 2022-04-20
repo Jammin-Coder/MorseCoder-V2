@@ -1,5 +1,5 @@
 # MorseCoder-V2
-###$ Only works on systems like Ubuntu which have `paplay` installed.
+#### Only works on systems like Ubuntu which have `paplay` installed.
 Brand new morse coder with a twist.
 
 To use the program:
